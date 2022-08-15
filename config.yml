@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: "https://immy786mik.github.io/KhanInfo/"
 languageCode: en-us
 title: First Hugo
 theme: PaperMod
